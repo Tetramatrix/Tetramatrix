@@ -26,6 +26,11 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![GCP](https://img.shields.io/badge/gcp-grey?style=for-the-badge&logo=Bootstrap)](https://gcp.com/ "Go to GCP")
 [![GSC](https://img.shields.io/badge/gsc-grey?style=for-the-badge&logo=Bootstrap)](https://gsc.com/ "Go to GSC")
 [![GTM](https://img.shields.io/badge/gtm-grey?style=for-the-badge&logo=Bootstrap)](https://gtm.com/ "Go to GTM")
+[![Composer](https://img.shields.io/badge/composer-grey?style=for-the-badge&logo=Bootstrap)](https://gtm.com/ "Go to Composer")
+[![Webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=Bootstrap)](https://webpack.com/ "Go to Webpack")
+[![Xdebug](https://img.shields.io/badge/xdebug-grey?style=for-the-badge&logo=Bootstrap)](https://xdebug.com/ "Go to Xdebug")
+
+
 
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")

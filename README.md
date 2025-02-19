@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Full-Stack & WordPress Developer / AI Specialist building scalable web apps, integrating AI, and designing future-proof architectures.
+
+
 ## About Me
 - 🛠 Full-Stack & WordPress Developer
 - 🤖 AI Specialist

@@ -4,10 +4,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 
 
 [![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://python.org "Go to Python homepage")
-[![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/stable/ "Go to Flask homepage")
-[![NumPy](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy)](https://numpy.org/ "Go to NumPy homepage")
 [![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
-[![Selenium](https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium)](https://www.selenium.dev/ "Go to Selenium homepage")
 [![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=c%2B%2B)]()
 [![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)](https://www.php.net/ "Go to PHP homepage")
 [![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)](https://typescriptlang.org "Go to TypeScript homepage")
@@ -25,6 +22,10 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![jQuery](https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=Bootstrap)](https://jquery.com/ "Go to jQuery")
 [![ChatGPT](https://img.shields.io/badge/chatgot-grey?style=for-the-badge&logo=Bootstrap)](https://chatgpt.com/ "Go to ChatGPT")
 [![OpenGL](https://img.shields.io/badge/opengl-grey?style=for-the-badge&logo=Bootstrap)](https://opengl.com/ "Go to OpenGL")
+[![AWST](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=Bootstrap)](https://aws.com/ "Go to AWS")
+[![GCP](https://img.shields.io/badge/gcp-grey?style=for-the-badge&logo=Bootstrap)](https://gcp.com/ "Go to GCP")
+[![GSC](https://img.shields.io/badge/gsc-grey?style=for-the-badge&logo=Bootstrap)](https://gsc.com/ "Go to GSC")
+[![GTM](https://img.shields.io/badge/gtm-grey?style=for-the-badge&logo=Bootstrap)](https://gtm.com/ "Go to GTM")
 
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")

@@ -3,6 +3,35 @@
 Full-Stack & WordPress Developer / AI Specialist building scalable web apps, integrating AI, and designing future-proof architectures.
 
 
+[![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://python.org "Go to Python homepage")
+[![Flask](https://img.shields.io/badge/flask-grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/stable/ "Go to Flask homepage")
+[![NumPy](https://img.shields.io/badge/numpy-grey?style=for-the-badge&logo=numpy)](https://numpy.org/ "Go to NumPy homepage")
+[![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
+[![Selenium](https://img.shields.io/badge/selenium-grey?style=for-the-badge&logo=selenium)](https://www.selenium.dev/ "Go to Selenium homepage")
+[![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=c%2B%2B)]()
+[![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)](https://www.php.net/ "Go to PHP homepage")
+[![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)](https://typescriptlang.org "Go to TypeScript homepage")
+[![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)](https://www.javascript.com/ "Go to JavaScript homepage")
+[![Vue.js](https://img.shields.io/badge/vuedotjs-grey?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/ "Go to Vue.js homepage")
+[![Node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)](https://nodejs.org "Go to Node.js homepage")
+[![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)](https://wordpress.com/de/ "Go to WordPress homepage")
+[![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)](https://www.mysql.com/ "Go to MySQL homepage")
+[![MariaDB](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)](https://www.mariadb.com/ "Go to MySQL homepage")
+[![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/ "Go to HTML W3Schools")
+[![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css)]()
+[![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/ "Go to Bootstrap W3Schools")
+[![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=Bootstrap)](https://react.com/ "Go to React")
+[![jQuery](https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=Bootstrap)](https://jquery.com/ "Go to jQuery")
+[![ChatGPT](https://img.shields.io/badge/chatgot-grey?style=for-the-badge&logo=Bootstrap)](https://chatgpt.com/ "Go to ChatGPT")
+[![OpenGL](https://img.shields.io/badge/opengl-grey?style=for-the-badge&logo=Bootstrap)](https://opengl.com/ "Go to OpenGL")
+
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
+[![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
+
+
+
 ## About Me
 - 🛠 Full-Stack & WordPress Developer
 - 🤖 AI Specialist

@@ -38,7 +38,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 
-[![AWS-Cloud-Practitioner-Certificate](https://img.shields.io/badge/AWS-Cloud_Practitioner-Certificate-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page")
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page")
 
 
 ## About Me

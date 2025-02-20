@@ -51,6 +51,8 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![CRUD](https://img.shields.io/badge/CRUD-Wikipedia-blue)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 [![KNN](https://img.shields.io/badge/KNN-Wikipedia-blue)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 [![GIS](https://img.shields.io/badge/GIS-Wikipedia-blue)](https://en.wikipedia.org/wiki/Geographic_information_system)
+[![MinGW](https://img.shields.io/badge/MinGW-Wikipedia-blue)](https://en.wikipedia.org/wiki/MinGW)
+
 
 [![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=aws&logoColor=white)](https://www.aws.com/ "Go to AWS homepage")
 [![Cloud - GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=aws&logoColor=white)](https://www.google.com/ "Go to GCP homepage")

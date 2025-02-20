@@ -7,6 +7,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile")  [![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions_Search-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=chi+hoang "Search TYPO3 Extensions for Chi Hoang")
 
 [![Tetramatrix Web](https://img.shields.io/badge/Web-Tetramatrix_GitHub_Page-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit Tetramatrix Web Page") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
+[![Tetramatrix Web](https://img.shields.io/badge/Web-Tetramatrix_GitHub_Page-blue)](https://tetramatrix.github.io/startmenu/ "Visit Tetramatrix Web Page")
 
 [![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
 

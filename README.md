@@ -8,6 +8,12 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 
 [![Tetramatrix Web](https://img.shields.io/badge/Web-Tetramatrix_GitHub_Page-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit Tetramatrix Web Page") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
 
+[![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
+
+[![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps "Visit Fashionreps") [![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange "Visit Watchexchange")
+
+[![Sabotage Demo](https://img.shields.io/badge/Sabotage-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15543 "View Sabotage Demo") [![Skid Row Demo](https://img.shields.io/badge/Skid_Row-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15445 "View Skid Row Demo") [![XTC Demo](https://img.shields.io/badge/XTC-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=745 "View XTC Demo") [![Alliance Demo](https://img.shields.io/badge/Alliance-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15468 "View Alliance Demo")
+
 ## About Me
 - 🛠 Full-Stack & WordPress Developer
 - 🤖 AI Specialist

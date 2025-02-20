@@ -49,14 +49,15 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![Elementor Pro](https://img.shields.io/badge/elementor-pro-grey?style=for-the-badge&logo=Bootstrap)](https://elementor.com/ "Go to Elementor Pro")
 [![ACF](https://img.shields.io/badge/acf-grey?style=for-the-badge&logo=Bootstrap)](https://acf.com/ "Go to ACF")
 [![CRUD](https://img.shields.io/badge/CRUD-Wikipedia-blue)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+[![KNN](https://img.shields.io/badge/KNN-Wikipedia-blue)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+[![GIS](https://img.shields.io/badge/GIS-Wikipedia-blue)](https://en.wikipedia.org/wiki/Geographic_information_system)
 
 [![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=aws&logoColor=white)](https://www.aws.com/ "Go to AWS homepage")
 [![Cloud - GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=aws&logoColor=white)](https://www.google.com/ "Go to GCP homepage")
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
-[![KNN](https://img.shields.io/badge/KNN-Wikipedia-blue)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-[![GIS](https://img.shields.io/badge/GIS-Wikipedia-blue)](https://en.wikipedia.org/wiki/Geographic_information_system)
+
 
 <!--
 **Tetramatrix/Tetramatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

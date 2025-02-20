@@ -6,7 +6,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 
 [![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile")  [![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions_Search-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=chi+hoang "Search TYPO3 Extensions for Chi Hoang")
 
-[![Home Page](https://img.shields.io/badge/Home_Page-blue)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
+[![Home Page](https://img.shields.io/badge/Home_Page-blue?logo=home)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
 
 
 

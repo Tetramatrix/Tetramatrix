@@ -2,6 +2,15 @@
 
 Full-Stack & WordPress Developer / AI Specialist building scalable web apps, integrating AI, and designing future-proof architectures.
 
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page") * [![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission "View IP2Location PHP Library Contest") * [![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Blog_Post-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html "Read PHP Innovation 2014 Blog Post")
+
+[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile") * [![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions_Search-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=chi+hoang "Search TYPO3 Extensions for Chi Hoang")
+
+[![Tetramatrix Web](https://img.shields.io/badge/Web-Tetramatrix_GitHub_Page-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit Tetramatrix Web Page") * [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
+
+## About Me
+- 🛠 Full-Stack & WordPress Developer
+- 🤖 AI Specialist
 
 [![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://python.org "Go to Python homepage")
 [![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
@@ -37,16 +46,6 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page") | [![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission "View IP2Location PHP Library Contest") | [![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Blog_Post-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html "Read PHP Innovation 2014 Blog Post")
-
-[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile") | [![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions_Search-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=chi+hoang "Search TYPO3 Extensions for Chi Hoang")
-
-[![Tetramatrix Web](https://img.shields.io/badge/Web-Tetramatrix_GitHub_Page-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit Tetramatrix Web Page") | [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
-
-## About Me
-- 🛠 Full-Stack & WordPress Developer
-- 🤖 AI Specialist
 
 <!--
 **Tetramatrix/Tetramatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

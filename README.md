@@ -48,6 +48,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=Bootstrap)](https://wordpress.com/ "Go to WordPress")
 [![Elementor Pro](https://img.shields.io/badge/elementor-pro-grey?style=for-the-badge&logo=Bootstrap)](https://elementor.com/ "Go to Elementor Pro")
 [![ACF](https://img.shields.io/badge/acf-grey?style=for-the-badge&logo=Bootstrap)](https://acf.com/ "Go to ACF")
+[![CRUD](https://img.shields.io/badge/CRUD-Wikipedia-blue)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
 [![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=aws&logoColor=white)](https://www.aws.com/ "Go to AWS homepage")
 [![Cloud - GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=aws&logoColor=white)](https://www.google.com/ "Go to GCP homepage")

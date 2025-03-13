@@ -62,6 +62,8 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 
+[![AWS - Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
+
 
 <!--
 **Tetramatrix/Tetramatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

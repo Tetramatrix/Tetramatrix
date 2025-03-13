@@ -9,6 +9,7 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
 
 
+[![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
 
 [![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
 
@@ -62,7 +63,6 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 [![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
 [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
 
-[![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
 
 
 <!--

@@ -11,6 +11,8 @@ Full-Stack & WordPress Developer / AI Specialist building scalable web apps, int
 
 [![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
 
+[![Links](https://img.shields.io/badge/Link-Links-blue?style=flat&logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")
+
 [![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
 
 [![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps "Visit Fashionreps") [![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange "Visit Watchexchange")

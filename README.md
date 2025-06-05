@@ -11,7 +11,6 @@ AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied A
 
 [![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
 
-
 [![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
 
 [![Links](https://img.shields.io/badge/Link-Links-blue?style=flat&logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")

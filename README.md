@@ -17,7 +17,7 @@ AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied A
 
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
 
-[![Spaceship Game](https://img.shields.io/badge/Spaceship-_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game") | [![Mirror](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
+[![Spaceship Game](https://img.shields.io/badge/Spaceship-_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game") | [![Spaceship Game](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
 
 
 [![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")

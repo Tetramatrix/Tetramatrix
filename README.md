@@ -9,7 +9,7 @@ AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied A
 
 [![JS Classes](https://img.shields.io/badge/JS%20Classes-Profile-blue)](https://www.jsclasses.org/browse/author/17722.html) [![JavaScript Observer Package](https://img.shields.io/badge/JS-Observer%20Manager-blue?logo=javascript&logoColor=white)](https://www.jsclasses.org/package/390-JavaScript-Manage-list-of-observer-objects.html "Go to JavaScript Observer Package") [![PHP PubSub Manager](https://img.shields.io/badge/PHP-PubSub%20Manager-blue?logo=php&logoColor=white)](https://tetramatrix.github.io/pubsub "Go to PHP PubSub Manager")
 
-[![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") [![Spaceship Game](https://img.shields.io/badge/Spaceship-Old_School_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Old School Retro Mini Game")
+[![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") 
 
 [![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner%20Quiz-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
 
@@ -17,7 +17,7 @@ AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied A
 
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
 
-[![Spaceship](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
+[![Spaceship Game](https://img.shields.io/badge/Spaceship-_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game")
 
 [![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
 

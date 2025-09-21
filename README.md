@@ -15,7 +15,7 @@ AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied A
 
 [![Links](https://img.shields.io/badge/Link-Links-blue?style=flat&logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")
 
-[![Aicono](https://img.shields.io/badge/Download-Windows%20EXE-0078D6?logo=windows&logoColor=white)]([https://tetramatrix.github.io/Aicono/ "Visit Aicono")
+[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/ "Visit Aicono")
 
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
 

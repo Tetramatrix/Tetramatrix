@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-AWS-Certified Senior Backend Developer | Full-Stack Engineer | Cloud & Applied AI Engineer | Indie Game Dev with a seasoned flair and a true passion for spatial analysis.
+Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) | Indie Game Dev with a seasoned flair and a true passion for spatial analysis.
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page")  [![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission "View IP2Location PHP Library Contest")  [![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Blog_Post-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html "Read PHP Innovation 2014 Blog Post")
 

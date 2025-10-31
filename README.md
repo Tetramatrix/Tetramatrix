@@ -27,7 +27,7 @@ Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) | Indie Game Dev w
 [![Sabotage Demo](https://img.shields.io/badge/Sabotage-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15543 "View Sabotage Demo") [![Skid Row Demo](https://img.shields.io/badge/Skid_Row-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15445 "View Skid Row Demo") [![XTC Demo](https://img.shields.io/badge/XTC-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=745 "View XTC Demo") [![Alliance Demo](https://img.shields.io/badge/Alliance-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15468 "View Alliance Demo")
 
 ## About Me
-- 🛠 AWS-Certified Senior Backend & Cloud Architect with a seasoned flair and a true passion for spatial analysis 
+- 🛠 Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) with a seasoned flair and a true passion for spatial analysis 
 - 👾 Full-Stack Engineer
 - 🤖 Applied AI/ML Engineer
 - 🚀 Indie game dev 

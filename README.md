@@ -60,38 +60,117 @@ Indie Game Developer with a seasoned flair and a true passion for spatial analys
 
 ## 🧩 Tech Stack & Toolchain
 
-**Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)
-![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
-![Vue.js](https://img.shields.io/badge/vue.js-grey?style=for-the-badge&logo=vuedotjs)
-![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)
+### 🧠 Core Expertise
+- **Backend Architecture:** OOP • SOLID • DRY • KISS • MVC • Hexagonal • CQRS • Microservices • REST APIs • Event-Driven Systems  
+- **Design Patterns:** Observer • Decorator • PubSub • Factory • Singleton • Adapter • Strategy  
+- **Principles:** Clean Code • Zero-Technical-Debt • Agile Scrum • Declarative & Functional Programming
 
-**Web & CMS:**  
-![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
-![Elementor](https://img.shields.io/badge/elementor-grey?style=for-the-badge&logo=elementor)
-![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass)
-![HTML](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3)
+---
 
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/mariadb-grey?style=for-the-badge&logo=mariadb)
-![Composer](https://img.shields.io/badge/composer-grey?style=for-the-badge&logo=composer)
-![Webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=webpack)
+### 🖥️ Programming Languages
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/Csharp-blue?style=for-the-badge&logo=csharp)
+![Java](https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+![NoSQL](https://img.shields.io/badge/NoSQL-blue?style=for-the-badge&logo=mongodb)
+![Bash](https://img.shields.io/badge/Bash-blue?style=for-the-badge&logo=gnubash)
+
+---
+
+### ⚙️ Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-grey?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Laravel Mix](https://img.shields.io/badge/Laravel_Mix-grey?style=for-the-badge&logo=laravel)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-grey?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-grey?style=for-the-badge&logo=numpy)
+
+---
+
+### 🧩 Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-grey?style=for-the-badge&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis)
+![Qdrant](https://img.shields.io/badge/Qdrant-grey?style=for-the-badge&logo=qdrant)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-grey?style=for-the-badge&logo=influxdb)
+
+---
+
+### ☁️ Cloud, DevOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-grey?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-grey?style=for-the-badge&logo=nginx)
+![Caddy](https://img.shields.io/badge/Caddy-grey?style=for-the-badge&logo=caddy)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-grey?style=for-the-badge&logo=githubactions)
+![UFW](https://img.shields.io/badge/UFW-grey?style=for-the-badge&logo=linux)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-grey?style=for-the-badge&logo=security)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-grey?style=for-the-badge&logo=letsencrypt)
+![HTTP/3](https://img.shields.io/badge/HTTP%2F3-grey?style=for-the-badge&logo=cloudflare)
+
+---
+
+### 🤖 AI / ML & Data Engineering
+![LLMs](https://img.shields.io/badge/LLMs-grey?style=for-the-badge&logo=openai)
+![LangGraph](https://img.shields.io/badge/LangGraph-grey?style=for-the-badge&logo=python)
+![RAG](https://img.shields.io/badge/RAG-grey?style=for-the-badge&logo=openai)
+![MCP](https://img.shields.io/badge/MCP-grey?style=for-the-badge&logo=openai)
+![Transformers](https://img.shields.io/badge/Transformers-grey?style=for-the-badge&logo=huggingface)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-grey?style=for-the-badge&logo=stabilityai)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-grey?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-grey?style=for-the-badge&logo=python)
+![ETL Pipelines](https://img.shields.io/badge/ETL-grey?style=for-the-badge&logo=airbyte)
+![Jupyter](https://img.shields.io/badge/Jupyter-grey?style=for-the-badge&logo=jupyter)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-grey?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas)
+
+---
+
+### 🔌 API, Integration & Analytics
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge&logo=api)
+![OAuth2](https://img.shields.io/badge/OAuth2-grey?style=for-the-badge&logo=openid)
+![JWT](https://img.shields.io/badge/JWT-grey?style=for-the-badge&logo=jsonwebtokens)
+![Zapier](https://img.shields.io/badge/Zapier-grey?style=for-the-badge&logo=zapier)
+![Slack API](https://img.shields.io/badge/Slack_API-grey?style=for-the-badge&logo=slack)
+![Google APIs](https://img.shields.io/badge/Google_APIs-grey?style=for-the-badge&logo=googlecloud)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-grey?style=for-the-badge&logo=googletagmanager)
+![GSC](https://img.shields.io/badge/Search_Console-grey?style=for-the-badge&logo=google)
+![Meta Graph API](https://img.shields.io/badge/Meta_Graph_API-grey?style=for-the-badge&logo=meta)
+
+---
+
+### 🧩 Testing, Debugging & Tooling
+![PHPUnit](https://img.shields.io/badge/PHPUnit-grey?style=for-the-badge&logo=php)
+![Pytest](https://img.shields.io/badge/Pytest-grey?style=for-the-badge&logo=pytest)
+![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
+![Xdebug](https://img.shields.io/badge/Xdebug-grey?style=for-the-badge&logo=php)
+![Grafana](https://img.shields.io/badge/Grafana-grey?style=for-the-badge&logo=grafana)
+![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
+![Composer](https://img.shields.io/badge/Composer-grey?style=for-the-badge&logo=composer)
+![Webpack](https://img.shields.io/badge/Webpack-grey?style=for-the-badge&logo=webpack)
 ![npm](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm)
-![Xdebug](https://img.shields.io/badge/xdebug-grey?style=for-the-badge&logo=php)
+![VS Code](https://img.shields.io/badge/VS_Code-grey?style=for-the-badge&logo=visualstudiocode)
 
-**Cloud & Systems:**  
-![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/google_cloud-grey?style=for-the-badge&logo=googlecloud)
-![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux)
-![macOS](https://img.shields.io/badge/macos-grey?style=for-the-badge&logo=apple)
-![Windows](https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows)
+---
+
+### 🧭 Specialties & Applied Domains
+- **AI/ML Applications:** RAG • LLM Agents • AI-driven WordPress Automation  
+- **Spatial Computing & Optimization:** GIS • Metaheuristics • KNN • Ant Colony • Bin Packing  
+- **Low-Level Performance:** OpenGL • Assembly • Multi-threading • Real-time Graphics  
+- **Search & Retrieval:** Vector Databases • Semantic Search • Embedding-based Indexing  
 
 ---
 

@@ -9,6 +9,8 @@ Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) | Indie Game Dev w
 
 [![JS Classes](https://img.shields.io/badge/JS%20Classes-Profile-blue)](https://www.jsclasses.org/browse/author/17722.html) [![JavaScript Observer Package](https://img.shields.io/badge/JS-Observer%20Manager-blue?logo=javascript&logoColor=white)](https://www.jsclasses.org/package/390-JavaScript-Manage-list-of-observer-objects.html "Go to JavaScript Observer Package") [![PHP PubSub Manager](https://img.shields.io/badge/PHP-PubSub%20Manager-blue?logo=php&logoColor=white)](https://tetramatrix.github.io/pubsub "Go to PHP PubSub Manager")
 
+[![KI-Gisela](https://img.shields.io/badge/KI--Gisela-AI_Content_Generation_for_WordPress-blue?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/ki-gisela-presentation.pdf "KI-Gisela: Automated AI Content Generation for WordPress")
+
 [![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") 
 
 [![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner%20Quiz-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")

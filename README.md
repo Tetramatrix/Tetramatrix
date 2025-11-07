@@ -15,7 +15,7 @@ Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) | Indie Game Dev w
 
 [![Links](https://img.shields.io/badge/Link-Links-blue?style=flat&logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")
 
-[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/ "Visit Aicono") | [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
+[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/ "Visit Aicono") | [![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)]([[https://tetramatrix.github.io/Aicono](https://apps.microsoft.com/detail/xp8lnkj7h4b1ws)/](https://apps.microsoft.com/detail/xp8lnkj7h4b1ws) "Visit Aicono Microsoft Store") | [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
 
 [![Spaceship Game](https://img.shields.io/badge/Spaceship-_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game") | [![Spaceship Game](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
 

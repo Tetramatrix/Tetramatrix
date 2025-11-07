@@ -1,97 +1,112 @@
-## Hi there 👋
+## 👋 Hi there  
 
-Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) | Indie Game Dev with a seasoned flair and a true passion for spatial analysis.
+### Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML)  
+Indie Game Developer with a seasoned flair and a true passion for spatial analysis.
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile page")  [![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission "View IP2Location PHP Library Contest")  [![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Blog_Post-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html "Read PHP Innovation 2014 Blog Post")
+---
 
-[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile") [![PHP Classes Reputation Ranking](https://img.shields.io/badge/PHP_Classes-Reputation_Ranking-blue?logo=php&logoColor=white)](https://www.phpclasses.org/reputation/user/441663/ranking/ "View my PHP Classes reputation ranking")
- [![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions_Search-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?L=0&id=1&tx_solr%5Bq%5D=chi+hoang "Search TYPO3 Extensions for Chi Hoang")
+## 🏆 Certifications & Recognitions
 
-[![JS Classes](https://img.shields.io/badge/JS%20Classes-Profile-blue)](https://www.jsclasses.org/browse/author/17722.html) [![JavaScript Observer Package](https://img.shields.io/badge/JS-Observer%20Manager-blue?logo=javascript&logoColor=white)](https://www.jsclasses.org/package/390-JavaScript-Manage-list-of-observer-objects.html "Go to JavaScript Observer Package") [![PHP PubSub Manager](https://img.shields.io/badge/PHP-PubSub%20Manager-blue?logo=php&logoColor=white)](https://tetramatrix.github.io/pubsub "Go to PHP PubSub Manager")
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url "Go to Credly profile")  
+[![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission "View IP2Location PHP Library Contest")  
+[![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Award-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html "Read PHP Innovation 2014 Blog Post")
+
+---
+
+## 💻 Developer Profiles & Contributions
+
+[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html "Go to PHP Classes Author Profile")  
+[![PHP Classes Reputation Ranking](https://img.shields.io/badge/PHPClasses-Reputation_Ranking-blue?logo=php&logoColor=white)](https://www.phpclasses.org/reputation/user/441663/ranking/ "View my PHP Classes reputation ranking")  
+[![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?tx_solr[q]=chi+hoang "Search TYPO3 Extensions for Chi Hoang")  
+[![JS Classes](https://img.shields.io/badge/JS_Classes-Profile-blue?logo=javascript&logoColor=white)](https://www.jsclasses.org/browse/author/17722.html)  
+
+---
+
+## 🧠 AI & Research Projects
 
 [![KI-Gisela](https://img.shields.io/badge/KI--Gisela-AI_Content_Generation_for_WordPress-blue?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/ki-gisela-presentation.pdf "KI-Gisela: Automated AI Content Generation for WordPress")
 
-[![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&labelColor=grey&style=flat-square&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage") 
+---
 
-[![AWS - Certified Cloud Practitioner Quiz](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner%20Quiz-orange?logo=amazon-aws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Go to AWS Certified Cloud Practitioner Quiz")
+## 🕹 Games & Creative Work
 
-[![Links](https://img.shields.io/badge/Link-Links-blue?style=flat&logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")
+[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/ "Visit Aicono")  
+[![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-blue?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/xp8lnkj7h4b1ws "Aicono in Microsoft Store!")  
+[![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml "Aicono featured at Softpedia!")  
+[![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")  
 
-[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/ "Visit Aicono") | [![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-blue?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/xp8lnkj7h4b1ws "Aicono in Microsoft Store!")
-| [![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml "Aicono featured at Softpedia!")
- | [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/ "Visit RyzenZPilot")
+🎮 **Retro Games:**  
+[![Spaceship Game](https://img.shields.io/badge/Spaceship-Play_on_Itch.io-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game")  
+[![Spaceship Website](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
 
-[![Spaceship Game](https://img.shields.io/badge/Spaceship-_Retro_Game-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship "Play Spaceship Retro Mini Game") | [![Spaceship Game](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/ "Visit Spaceship")
+---
 
+## 🔧 WordPress & Web Tools
 
-[![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")
+[![WordPress Plugin Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/ "Visit WordPress Plugin Dupefinder")  
+[![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps "Visit Fashionreps")  
+[![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange "Visit Watchexchange")
 
-[![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps "Visit Fashionreps") [![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange "Visit Watchexchange")
+---
 
-[![Sabotage Demo](https://img.shields.io/badge/Sabotage-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15543 "View Sabotage Demo") [![Skid Row Demo](https://img.shields.io/badge/Skid_Row-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15445 "View Skid Row Demo") [![XTC Demo](https://img.shields.io/badge/XTC-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=745 "View XTC Demo") [![Alliance Demo](https://img.shields.io/badge/Alliance-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15468 "View Alliance Demo")
+## 💾 Demoscene History
 
-## About Me
-- 🛠 Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML) with a seasoned flair and a true passion for spatial analysis 
-- 👾 Full-Stack Engineer
-- 🤖 Applied AI/ML Engineer
-- 🚀 Indie game dev 
+[![Sabotage Demo](https://img.shields.io/badge/Sabotage-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15543 "View Sabotage Demo")  
+[![Skid Row Demo](https://img.shields.io/badge/Skid_Row-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15445 "View Skid Row Demo")  
+[![XTC Demo](https://img.shields.io/badge/XTC-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=745 "View XTC Demo")  
+[![Alliance Demo](https://img.shields.io/badge/Alliance-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15468 "View Alliance Demo")
 
+---
 
-[![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://python.org "Go to Python homepage")
-[![Pandas](https://img.shields.io/badge/pandas-grey?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/ "Go to Pandas homepage")
-[![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=c%2B%2B)]()
-[![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)](https://www.php.net/ "Go to PHP homepage")
-[![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)](https://typescriptlang.org "Go to TypeScript homepage")
-[![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)](https://www.javascript.com/ "Go to JavaScript homepage")
-[![Vue.js](https://img.shields.io/badge/vuedotjs-grey?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/ "Go to Vue.js homepage")
-[![Node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)](https://nodejs.org "Go to Node.js homepage")
-[![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)](https://wordpress.com/de/ "Go to WordPress homepage")
-[![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)](https://www.mysql.com/ "Go to MySQL homepage")
-[![MariaDB](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)](https://www.mariadb.com/ "Go to MySQL homepage")
-[![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/ "Go to HTML W3Schools")
-[![CSS](https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css)]()
-[![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/ "Go to Bootstrap W3Schools")
-[![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=Bootstrap)](https://react.com/ "Go to React")
-[![jQuery](https://img.shields.io/badge/jquery-grey?style=for-the-badge&logo=Bootstrap)](https://jquery.com/ "Go to jQuery")
-[![ChatGPT](https://img.shields.io/badge/chatgpt-grey?style=for-the-badge&logo=Bootstrap)](https://chatgpt.com/ "Go to ChatGPT")
-[![OpenGL](https://img.shields.io/badge/opengl-grey?style=for-the-badge&logo=Bootstrap)](https://opengl.com/ "Go to OpenGL")
-[![AWST](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=Bootstrap)](https://aws.com/ "Go to AWS")
-[![GTM](https://img.shields.io/badge/gtm-grey?style=for-the-badge&logo=Bootstrap)](https://google.com/ "Go to GTM")
-[![Composer](https://img.shields.io/badge/composer-grey?style=for-the-badge&logo=Bootstrap)](https://gtm.com/ "Go to Composer")
-[![Webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=Bootstrap)](https://webpack.com/ "Go to Webpack")
-[![Xdebug](https://img.shields.io/badge/xdebug-grey?style=for-the-badge&logo=Bootstrap)](https://xdebug.com/ "Go to Xdebug")
-[![npm](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=Bootstrap)](https://npm.com/ "Go to npm")
-[![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=Bootstrap)](https://wordpress.com/ "Go to WordPress")
-[![Elementor Pro](https://img.shields.io/badge/elementor-pro-grey?style=for-the-badge&logo=Bootstrap)](https://elementor.com/ "Go to Elementor Pro")
-[![ACF](https://img.shields.io/badge/acf-grey?style=for-the-badge&logo=Bootstrap)](https://acf.com/ "Go to ACF")
-[![CRUD](https://img.shields.io/badge/CRUD-Wikipedia-blue)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-[![KNN](https://img.shields.io/badge/KNN-Wikipedia-blue)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
-[![GIS](https://img.shields.io/badge/GIS-Wikipedia-blue)](https://en.wikipedia.org/wiki/Geographic_information_system)
-[![MinGW](https://img.shields.io/badge/MinGW-Wikipedia-blue)](https://en.wikipedia.org/wiki/MinGW)
-[![Markov Chain](https://img.shields.io/badge/Markov_Chain-Wikipedia-blue)](https://en.wikipedia.org/wiki/Markov_chain)
-[![LLM](https://img.shields.io/badge/LLM-Wikipedia-blue)](https://en.wikipedia.org/wiki/Large_language_model)
+## 🧩 Tech Stack & Toolchain
 
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/php-grey?style=for-the-badge&logo=php)
+![C++](https://img.shields.io/badge/c%2B%2B-grey?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
+![Vue.js](https://img.shields.io/badge/vue.js-grey?style=for-the-badge&logo=vuedotjs)
+![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js)
 
-[![Cloud - AWS](https://img.shields.io/badge/Cloud-AWS-blue?logo=aws&logoColor=white)](https://www.aws.com/ "Go to AWS homepage")
-[![Cloud - GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=aws&logoColor=white)](https://www.google.com/ "Go to GCP homepage")
-[![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage")
-[![OS - macOS](https://img.shields.io/badge/OS-macOS-blue?logo=apple&logoColor=white)](https://www.apple.com/macos/ "Go to Apple homepage")
-[![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/ "Go to Microsoft homepage")
+**Web & CMS:**  
+![WordPress](https://img.shields.io/badge/wordpress-grey?style=for-the-badge&logo=wordpress)
+![Elementor](https://img.shields.io/badge/elementor-grey?style=for-the-badge&logo=elementor)
+![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
+![SASS](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass)
+![HTML](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3)
 
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/mariadb-grey?style=for-the-badge&logo=mariadb)
+![Composer](https://img.shields.io/badge/composer-grey?style=for-the-badge&logo=composer)
+![Webpack](https://img.shields.io/badge/webpack-grey?style=for-the-badge&logo=webpack)
+![npm](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm)
+![Xdebug](https://img.shields.io/badge/xdebug-grey?style=for-the-badge&logo=php)
 
+**Cloud & Systems:**  
+![AWS](https://img.shields.io/badge/aws-grey?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/google_cloud-grey?style=for-the-badge&logo=googlecloud)
+![Linux](https://img.shields.io/badge/linux-grey?style=for-the-badge&logo=linux)
+![macOS](https://img.shields.io/badge/macos-grey?style=for-the-badge&logo=apple)
+![Windows](https://img.shields.io/badge/windows-grey?style=for-the-badge&logo=windows)
 
-<!--
-**Tetramatrix/Tetramatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Links & Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Home Page](https://img.shields.io/static/v1?label=Home&message=Page&color=blue&logo=homeadvisor&logoColor=white)](https://tetramatrix.github.io/startmenu/ "Visit my homepage")  
+[![AWS Cloud Practitioner Quiz](https://img.shields.io/badge/AWS_Practitioner-Quiz-orange?logo=amazonaws&logoColor=white)](https://tetramatrix.github.io/aws-certified-cloud-practitioner/ "Take the AWS Certified Cloud Practitioner Quiz")  
+[![Useful Links](https://img.shields.io/badge/Links-Resources-blue?logo=link&logoColor=white)](https://tetramatrix.github.io/startmenu/links_ads.html "Go to Links Page")
+
+---
+
+### ✨ About Me
+- 🛠 Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML)  
+- 🤖 Applied AI/ML Engineer  
+- 👾 Indie Game Developer  
+- 🌍 Passion for Spatial Analysis and Data Visualization  
+
+---

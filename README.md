@@ -52,7 +52,7 @@ Indie Game Developer with a seasoned flair and a true passion for spatial analys
 [![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)  
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/)  
 
-🎮 **Retro Games:**  
+🎮 Retro Games
 [![Spaceship Game](https://img.shields.io/badge/Spaceship-Play_on_Itch.io-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship)  
 [![Spaceship Website](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/)
 [![New Spaceship on IndieDB](https://img.shields.io/badge/New_Spaceship-IndieDB-red?logo=indiedb&logoColor=white)](https://www.indiedb.com/games/new-spaceship)

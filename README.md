@@ -36,7 +36,7 @@ Indie Game Developer with a seasoned flair and a true passion for spatial analys
 ## 🧠 AI & Research Projects
 [![KI-Gisela](https://img.shields.io/badge/KI--Gisela-AI_Content_Generation_for_WordPress-blue?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/ki-gisela-presentation.pdf "KI-Gisela: Automated AI Content Generation for WordPress")
 
-[![Speditionsplan](https://img.shields.io/badge/Speditionsplan-Fleet_Management_&_Route_Optimization-blue?logo=typo3&logoColor=white)](https://tetramatrix.github.io/startmenu/speditionsplan.pdf "Speditionsplan: Fleet Management & Route Optimization")
+[![Speditionsliste](https://img.shields.io/badge/Speditionsliste-Fleet_Management_&_Route_Optimization-blue?logo=typo3&logoColor=white)](https://tetramatrix.github.io/startmenu/speditionsliste.pdf "Speditionsplan: Fleet Management & Route Optimization")
 
 ## 🔧 WordPress & Web Tools
 [![Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/)  

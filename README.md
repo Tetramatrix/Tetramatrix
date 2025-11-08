@@ -46,7 +46,7 @@ Indie Game Developer with a seasoned flair and a true passion for spatial analys
 </td>
 <td width="50%">
 
-## 🕹 Games & Creative Work
+## 🔧 Tools & Creative Work
 [![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)  
 [![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-blue?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/xp8lnkj7h4b1ws)  
 [![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)  

@@ -1,7 +1,7 @@
 ## 👋 Hi there  
 
 ### Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML)  
-Indie Game Developer with a seasoned flair and a true passion for spatial analysis.  
+AWS-certified Senior Backend & Cloud Architect building scalable systems across on-premise, cloud and AI/ML platforms.
 
 ---
 

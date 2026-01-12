@@ -52,6 +52,9 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 [![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)  
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/)  
 
+[![Sorana Website](https://img.shields.io/badge/Sorana-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Sorana/)
+[![Sorana Microsoft Store](https://img.shields.io/badge/Sorana-Microsoft_Store-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9n8c43pzc1rn)
+
 ## 🎮 Retro Games
 [![Spaceship Game](https://img.shields.io/badge/Spaceship-Play_on_Itch.io-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship)  
 [![Spaceship Website](https://img.shields.io/badge/Spaceship-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/spaceship/)

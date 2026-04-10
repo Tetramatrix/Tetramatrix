@@ -56,8 +56,8 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 [![Sorana Microsoft Store](https://img.shields.io/badge/Sorana-Microsoft_Store-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9n8c43pzc1rn)
 [![Sorana Discord](https://img.shields.io/badge/Sorana-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/4QkQSfSATF)
 
-[![Diffron](https://img.shields.io/badge/Diffron-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/diffron/)
-[![Lemonade-Python-SDK](https://img.shields.io/badge/Lemonade--Python--SDK-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/lemonade-python-sdk/)
+[![Diffron](https://img.shields.io/badge/Diffron-Website-blue?logo=github&logoColor=white)](https://github.com/Tetramatrix/diffron)
+[![Lemonade-Python-SDK](https://img.shields.io/badge/Lemonade--Python--SDK-Website-blue?logo=github&logoColor=white)](https://github.com/Tetramatrix/lemonade-python-sdk)
 
 ## 🎮 Retro Games
 [![Spaceship Game](https://img.shields.io/badge/Spaceship-Play_on_Itch.io-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship)  

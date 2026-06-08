@@ -240,6 +240,6 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 - 🛠 Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML)  
 - 🤖 Applied AI/ML Engineer  
 - 👾 Indie Game Developer  
-- 🌍 Passion for Spatial Analysis & Data Visualization  
+- 🌍 Passion for Spatial Analysis & Data Locality  
 
 ---

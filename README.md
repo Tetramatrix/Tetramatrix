@@ -1,6 +1,6 @@
 ## 👋 Hi there  
 
-### Senior Backend & Cloud Architect (Full-Stack & Applied AI/ML)  
+### Senior Backend & Cloud Architect | AI Systems & Harness Engineering 
 AWS-certified Senior Backend & Cloud Architect building scalable systems across on-premise, cloud and AI/ML platforms.
 
 ---

@@ -47,9 +47,12 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🔧 Tools & Creative Work
+[![Audrix-Website-blue](https://img.shields.io/badge/Audrix-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
+
 [![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)  
 [![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-blue?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ngfc27j1vbx)  
 [![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)  
+
 [![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/)  
 
 [![Sorana Website](https://img.shields.io/badge/Sorana-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Sorana/)

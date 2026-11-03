@@ -47,25 +47,25 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🔧 Tools & Creative Work
-[![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-blue?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
-[![JS dreid](https://img.shields.io/badge/typo3dreid-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
+[![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-FF5722?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
+[![JS dreid](https://img.shields.io/badge/typo3dreid-Website-00D1B2?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
 
 [![I Ging](https://img.shields.io/badge/I%20Ging-Website-663399?logo=book&logoColor=white)](https://tetramatrix.github.io/hexagram/)
 
-[![Audrix-Website-blue](https://img.shields.io/badge/Audrix-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
+[![Audrix](https://img.shields.io/badge/Audrix-Website-1DB954?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
 
-[![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)  
-[![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-blue?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ngfc27j1vbx)  
-[![Aicono](https://img.shields.io/badge/Aicono-Softpedia-blue?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)  
+[![Aicono](https://img.shields.io/badge/Aicono-Website-6366F1?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)
+[![Aicono](https://img.shields.io/badge/Aicono-Microsoft_Store-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9ngfc27j1vbx)
+[![Aicono](https://img.shields.io/badge/Aicono-Softpedia-607D8B?logo=softpedia&logoColor=white)](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/Aicono.shtml)
 
-[![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/)  
+[![RyzenZPilot](https://img.shields.io/badge/RyzenZPilot-Website-EF4444?logo=github&logoColor=white)](https://tetramatrix.github.io/RyzenZPilot/)
 
-[![Sorana Website](https://img.shields.io/badge/Sorana-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Sorana/)
+[![Sorana Website](https://img.shields.io/badge/Sorana-Website-10B981?logo=github&logoColor=white)](https://tetramatrix.github.io/Sorana/)
 [![Sorana Microsoft Store](https://img.shields.io/badge/Sorana-Microsoft_Store-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9n8c43pzc1rn)
 [![Sorana Discord](https://img.shields.io/badge/Sorana-Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/4QkQSfSATF)
 
-[![Diffron](https://img.shields.io/badge/Diffron-Website-blue?logo=github&logoColor=white)](https://github.com/Tetramatrix/diffron)
-[![Lemonade-Python-SDK](https://img.shields.io/badge/Lemonade--Python--SDK-Website-blue?logo=github&logoColor=white)](https://github.com/Tetramatrix/lemonade-python-sdk)
+[![Diffron](https://img.shields.io/badge/Diffron-Website-F59E0B?logo=github&logoColor=white)](https://github.com/Tetramatrix/diffron)
+[![Lemonade-Python-SDK](https://img.shields.io/badge/Lemonade--Python--SDK-Website-3776AB?logo=github&logoColor=white)](https://github.com/Tetramatrix/lemonade-python-sdk)
 
 ## 🎮 Retro Games
 [![Spaceship Game](https://img.shields.io/badge/Spaceship-Play_on_Itch.io-blue?logo=itch.io&logoColor=white)](https://tetramatrix.itch.io/old-school-retro-mini-game-spaceship)  

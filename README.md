@@ -50,6 +50,8 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 [![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-blue?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
 [![JS dreid](https://img.shields.io/badge/typo3dreid-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
 
+[![I Ging](https://img.shields.io/badge/I%20Ging-Website-663399?logo=book&logoColor=white)](https://tetramatrix.github.io/hexagram/)
+
 [![Audrix-Website-blue](https://img.shields.io/badge/Audrix-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
 
 [![Aicono](https://img.shields.io/badge/Aicono-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)  

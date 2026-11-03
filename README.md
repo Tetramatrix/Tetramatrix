@@ -50,9 +50,6 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🔧 Tools & Creative Work
-
-[![JS dreid](https://img.shields.io/badge/typo3dreid-Website-00D1B2?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
-
 [![Audrix](https://img.shields.io/badge/Audrix-Website-1DB954?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
 
 [![Aicono](https://img.shields.io/badge/Aicono-Website-6366F1?logo=github&logoColor=white)](https://tetramatrix.github.io/Aicono/)
@@ -74,10 +71,12 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 [![New Spaceship on IndieDB](https://img.shields.io/badge/New_Spaceship-IndieDB-red?logo=indiedb&logoColor=white)](https://www.indiedb.com/games/new-spaceship)
 
 ## 💾 Demoscene History
+
 [![Sabotage](https://img.shields.io/badge/Sabotage-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15543)  
 [![Skid Row](https://img.shields.io/badge/Skid_Row-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15445)  
 [![XTC](https://img.shields.io/badge/XTC-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=745)  
 [![Alliance](https://img.shields.io/badge/Alliance-Demo-blue?logo=pouet.net&logoColor=white)](https://pouet.net/prod.php?which=15468)
+[![JS dreid](https://img.shields.io/badge/typo3dreid-Website-00D1B2?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
 
 </td>
 </tr>

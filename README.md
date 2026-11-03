@@ -3,6 +3,7 @@
 ### Senior Backend & Cloud Architect | AI Systems & Harness Engineering 
 AWS-certified Senior Backend & Cloud Architect building scalable systems across on-premise, cloud and AI/ML platforms.
 
+[![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-FF5722?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
 ---
 
 <table width="100%">
@@ -49,7 +50,7 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🔧 Tools & Creative Work
-[![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-FF5722?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
+
 [![JS dreid](https://img.shields.io/badge/typo3dreid-Website-00D1B2?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
 
 [![Audrix](https://img.shields.io/badge/Audrix-Website-1DB954?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)

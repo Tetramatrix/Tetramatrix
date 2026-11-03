@@ -34,14 +34,14 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🧠 AI & Research Projects
-[![KI-Gisela](https://img.shields.io/badge/KI--Gisela-AI_Content_Generation_for_WordPress-blue?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/ki-gisela-presentation.pdf "KI-Gisela: Automated AI Content Generation for WordPress")
-[![Bruno Agent System](https://img.shields.io/badge/Bruno_Agent_System-API_Testing_%26_Development-blue?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/Bruno_Agent_System_Presentation.pdf "Bruno Agent System: API Testing & Development")
-[![Speditionsliste](https://img.shields.io/badge/Speditionsliste-Fleet_Management_&_Route_Optimization-blue?logo=typo3&logoColor=white)](https://tetramatrix.github.io/startmenu/speditionsliste.pdf "Speditionsplan: Logistic Engine & Route Optimization")
+[![KI-Gisela](https://img.shields.io/badge/KI--Gisela-AI_Content_Generation_for_WordPress-8B5CF6?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/ki-gisela-presentation.pdf "KI-Gisela: Automated AI Content Generation for WordPress")
+[![Bruno Agent System](https://img.shields.io/badge/Bruno_Agent_System-API_Testing_%26_Development-06B6D4?logo=adobeacrobatreader&logoColor=white)](https://tetramatrix.github.io/startmenu/Bruno_Agent_System_Presentation.pdf "Bruno Agent System: API Testing & Development")
+[![Speditionsliste](https://img.shields.io/badge/Speditionsliste-Fleet_Management_%26_Route_Optimization-059669?logo=typo3&logoColor=white)](https://tetramatrix.github.io/startmenu/speditionsliste.pdf "Speditionsplan: Logistic Engine & Route Optimization")
 
 ## 🔧 WordPress & Web Tools
-[![Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-blue?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/)  
-[![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps)  
-[![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-blue?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange)
+[![Dupefinder](https://img.shields.io/badge/WordPress-Plugin_Dupefinder-21759B?logo=wordpress&logoColor=white)](https://tetramatrix.github.io/sdc-dupefinder/)
+[![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-EC4899?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps)
+[![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-D97706?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange)
 
 </td>
 <td width="50%">

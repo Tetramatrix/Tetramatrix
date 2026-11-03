@@ -10,18 +10,18 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 <td width="50%">
 
 ## 🏆 Certifications & Recognitions
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-blue?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url)  
-[![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-blue?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission)  
-[![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Award-blue?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/5bd44901-eb63-4cc4-9df2-67b985d41746/public_url)  
+[![IP2Location PHP Library Contest](https://img.shields.io/badge/IP2Location-PHP_Library_Contest-00A3E0?logo=php&logoColor=white)](https://www.ip2location.com/contest-ip2location-php-optimization-submission)  
+[![PHP Innovation 2014 Award](https://img.shields.io/badge/PHP_Innovation-2014_Award-F59E0B?logo=php&logoColor=white)](https://www.phpclasses.org/blog/post/265-Chi-Hoang-and-Italy-Won-the-2014-PHP-Innovation-Award-Edition.html)
 
 </td>
 <td width="50%">
 
 ## 💻 Developer Profiles & Contributions
-[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-blue?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html)  
-[![PHP Classes Reputation Ranking](https://img.shields.io/badge/PHPClasses-Reputation_Ranking-blue?logo=php&logoColor=white)](https://www.phpclasses.org/reputation/user/441663/ranking/)  
-[![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions-blue?logo=typo3&logoColor=white)](https://extensions.typo3.org/?tx_solr[q]=chi+hoang)  
-[![JS Classes](https://img.shields.io/badge/JS_Classes-Profile-blue?logo=javascript&logoColor=white)](https://www.jsclasses.org/browse/author/17722.html)
+[![PHP Classes Author Profile](https://img.shields.io/badge/PHPClasses-Author_Profile-777BB4?logo=php&logoColor=white)](http://www.phpclasses.org/browse/author/441663.html)  
+[![PHP Classes Reputation Ranking](https://img.shields.io/badge/PHPClasses-Reputation_Ranking-10B981?logo=php&logoColor=white)](https://www.phpclasses.org/reputation/user/441663/ranking/)  
+[![TYPO3 Extensions](https://img.shields.io/badge/TYPO3-Extensions-FF8700?logo=typo3&logoColor=white)](https://extensions.typo3.org/?tx_solr[q]=chi+hoang)  
+[![JS Classes](https://img.shields.io/badge/JS_Classes-Profile-323330?logo=javascript&logoColor=white)](https://www.jsclasses.org/browse/author/17722.html)
 
 </td>
 </tr>

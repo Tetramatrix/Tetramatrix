@@ -43,14 +43,14 @@ AWS-certified Senior Backend & Cloud Architect building scalable systems across 
 [![Fashionreps](https://img.shields.io/badge/Fashionreps-Website-EC4899?logo=github&logoColor=white)](https://tetramatrix.github.io/fashionreps)
 [![Watchexchange](https://img.shields.io/badge/Watchexchange-Website-D97706?logo=github&logoColor=white)](https://tetramatrix.github.io/watchexchange)
 
+[![I Ging](https://img.shields.io/badge/I%20Ging-Website-663399?logo=book&logoColor=white)](https://tetramatrix.github.io/hexagram/)
+
 </td>
 <td width="50%">
 
 ## 🔧 Tools & Creative Work
 [![Tetramatrix Portfolio](https://img.shields.io/badge/Tetramatrix-Portfolio-FF5722?logo=githubpages&logoColor=white)](https://tetramatrix.github.io/startmenu/)
 [![JS dreid](https://img.shields.io/badge/typo3dreid-Website-00D1B2?logo=github&logoColor=white)](https://tetramatrix.github.io/typo3dreid/)
-
-[![I Ging](https://img.shields.io/badge/I%20Ging-Website-663399?logo=book&logoColor=white)](https://tetramatrix.github.io/hexagram/)
 
 [![Audrix](https://img.shields.io/badge/Audrix-Website-1DB954?logo=github&logoColor=white)](https://tetramatrix.github.io/Audrix)
 
